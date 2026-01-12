@@ -32,3 +32,12 @@ Kama una biashara, mradi, au unataka kubadilishana mawazo ya kitalaamu:
 
 ---
 *© 2026 Junior76Carter | Built with Logic.*
+---
+---
+### 📸 Visual Evidence (Game Logic Decryption)
+*Below are the screenshots proving the successful logic analysis and decryption of the game's security layer:*
+
+![Screenshot 1](Screenshot_20260112-045317.jpg)
+![Screenshot 2](Screenshot_20260112-152458.jpg)
+
+> **Note:** These results were achieved using binary pattern recognition and logical mapping.
