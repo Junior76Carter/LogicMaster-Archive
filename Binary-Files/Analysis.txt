@@ -1,0 +1,24 @@
+# 🛡️ Password Decryption Write-up
+**Project:** LogicMaster-Archive  
+**Technical Focus:** Security Logic & Pattern Recognition  
+**Status:** Completed ✅
+
+## 📑 Methodology
+
+### 1. Reconnaissance & Analysis
+* Identified the password authentication mechanism.
+* Analyzed the underlying logic for potential pattern weaknesses.
+* Observed the system's response to various binary input sequences.
+
+### 2. Logical Exploitation
+* Applied **Binary Pattern Recognition** to predict the character sequence.
+* Mapped out the logic gates used by the authentication script.
+* Used a customized approach to bypass the validation layer without triggering security alerts.
+
+### 3. Key Findings
+* The system relied on predictable logical increments.
+* **Result:** Successful decryption and access granted.
+* **Security Recommendation:** Implement salted hashing and non-linear complexity to prevent pattern-based attacks.
+
+---
+> *"In the world of binary, logic is the ultimate key."*
