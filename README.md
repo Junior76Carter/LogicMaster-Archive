@@ -1,4 +1,26 @@
-# 📝 LogicMaster-Archive
+# ⚠️ LEGAL AND ETHICAL WARNING | ONYO LA KISHERIA
+
+> [!CAUTION]
+> **PLEASE READ CAREFULLY BEFORE PROCEEDING**
+> 
+> All information provided in this repository (e.g., IP Tracking, Network Auditing) is for **EDUCATIONAL PURPOSES ONLY**. 
+
+### 🚫 RULES OF ENGAGEMENT:
+* **Consent First**: Never use these tools on any network or device without explicit written permission.
+* **Legal Compliance**: Unauthorized access to computer systems is a criminal offense under the Cybercrime Act.
+* **Personal Responsibility**: The author (**Junior / The Architect**) is NOT responsible for any misuse or legal consequences resulting from the use of this code.
+
+---
+
+### 🇹🇿 TAFSIRI YA KISWAHILI (ONYO):
+Mambo yote yaliyomo humu ni kwa ajili ya **ELIMU PEKEE**.
+1. **Ruhusa**: Usijaribu mbinu hizi bila ruhusa ya mmiliki wa mtandao.
+2. **Sheria**: Kuingilia faragha ya mtu ni kosa la kisheria.
+3. **Wajibu**: Kila mmoja anawajibika kwa matendo yake mbele ya sheria.
+
+**"Security is a mindset, not just a tool."**
+
+ # 📝 LogicMaster-Archive
 > **"Turning Logic into Solutions | Decoding the Binary World"**
 
 ![Banner](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
